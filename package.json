@@ -1,0 +1,14 @@
+{
+  "name": "discord-music-bot",
+  "version": "1.0.0",
+  "description": "Advanced Music Bot with Autoplay and Control Panel",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.11.0",
+    "@discordjs/voice": "^0.14.0",
+    "play-dl": "^1.9.8"
+  }
+}
